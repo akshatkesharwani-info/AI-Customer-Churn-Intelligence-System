@@ -1,5 +1,11 @@
 # AI Customer Churn Intelligence System
 
+ 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Free APIs](https://img.shields.io/badge/AI%20cost-%240%20(free%20tier)-success)
+
 A churn prediction project that explains risk factors and generates actionable retention advice.
 
 This project predicts whether a customer is likely to churn, shows why the model thinks so using SHAP, and then uses AI to suggest a practical retention strategy.
